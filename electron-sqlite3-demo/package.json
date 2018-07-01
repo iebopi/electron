@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "asar": "^0.14.1",
+    "electron": "^1.7.12",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "electron-rebuild": "^1.7.3",
+    "sqlite3": "^4.0.0"
+  }
+}
