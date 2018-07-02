@@ -15,6 +15,7 @@ cnpm install express --save
 cnpm install electron-log --save
 
 cnpm install electron-settings --save
+
 -------------------------------------------------------
 
 
