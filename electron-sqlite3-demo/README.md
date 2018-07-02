@@ -1,5 +1,7 @@
 # this demo refer to electron-api-demos in github
 
+--------------------------------------------------------
+
 # env install instructions
 
 copy the flowing to windows cmd to prepare environment
